@@ -1,3 +1,12 @@
 kon-character-manager
 =====================
-Yes it's going to involve PHP, so sue me.
+
+Intended tech stack:
+* cakePHP
+* coffeescript
+* Less
+* phing
+
+
+Contribution requirements:
+* Tabs are 4 spaces
