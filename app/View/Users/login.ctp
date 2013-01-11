@@ -9,4 +9,4 @@
     </fieldset>
 <?php echo $this->Form->end(__('Login')); ?>
 </div>
-**<? $this->Html->link('New user', '/users/add'); ?>**
+<? echo $this->Html->link('New user', '/users/add'); ?>

@@ -5,3 +5,12 @@
 
 <? endforeach; ?>
 </ul>
+
+<div>
+<?
+echo AuthComponent::user('id');
+$u = AuthComponent::user();
+
+Debugger::dump($u);
+?>
+</div>
